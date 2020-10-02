@@ -1,0 +1,40 @@
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\northwnd.mdf
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\NorthwindLab3.exe.config
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\NorthwindLab3.exe
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\NorthwindLab3.pdb
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.csprojAssemblyReference.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.Properties.Resources.resources
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.csproj.GenerateResource.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.csproj.CoreCompileInputs.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.exe
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.pdb
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\northwnd_log.ldf
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\northwndDataSet.Designer.cs
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\northwndDataSet.xsc
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\northwndDataSet.xsd
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\bin\Debug\northwndDataSet.xss
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\NorthwindLab3\obj\Debug\NorthwindLab3.frmNorthwind.resources
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.csprojAssemblyReference.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.frmNorthwind.resources
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.Properties.Resources.resources
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.csproj.GenerateResource.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.csproj.CoreCompileInputs.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.exe
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\obj\Debug\NorthwindLab3.pdb
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\bin\Debug\northwnd.mdf
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\bin\Debug\northwnd_log.ldf
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\bin\Debug\NorthwindLab3.exe.config
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\bin\Debug\NorthwindLab3.exe
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG 200 Lab 3\NorthwindLab3\bin\Debug\NorthwindLab3.pdb
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\bin\Debug\northwnd.mdf
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\bin\Debug\northwnd_log.ldf
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\bin\Debug\NorthwindLab3.exe.config
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\bin\Debug\NorthwindLab3.exe
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\bin\Debug\NorthwindLab3.pdb
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.csprojAssemblyReference.cache
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.frmNorthwind.resources
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.Properties.Resources.resources
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.csproj.GenerateResource.cache
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.csproj.CoreCompileInputs.cache
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.exe
+C:\Users\cpark\source\repos\CrystalLava\Northwind Lab 3\obj\Debug\NorthwindLab3.pdb
